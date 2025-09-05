@@ -1,0 +1,111 @@
+
+BIGWIN.png
+size: 1172,651
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bglight
+  rotate: true
+  xy: 2, 215
+  size: 434, 402
+  orig: 440, 409
+  offset: 2, 3
+  index: -1
+biglight
+  rotate: true
+  xy: 770, 4
+  size: 324, 322
+  orig: 326, 324
+  offset: 1, 1
+  index: -1
+fish
+  rotate: false
+  xy: 770, 330
+  size: 400, 319
+  orig: 400, 319
+  offset: 0, 0
+  index: -1
+gold1
+  rotate: true
+  xy: 102, 144
+  size: 69, 201
+  orig: 69, 202
+  offset: 0, 0
+  index: -1
+gold2
+  rotate: false
+  xy: 2, 43
+  size: 98, 170
+  orig: 98, 170
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 102, 86
+  size: 56, 55
+  orig: 76, 78
+  offset: 11, 6
+  index: -1
+score_coin_1
+  rotate: false
+  xy: 172, 8
+  size: 29, 42
+  orig: 65, 51
+  offset: 15, 5
+  index: -1
+score_coin_2
+  rotate: true
+  xy: 138, 52
+  size: 32, 39
+  orig: 65, 51
+  offset: 14, 6
+  index: -1
+score_coin_3
+  rotate: false
+  xy: 2, 3
+  size: 43, 38
+  orig: 65, 51
+  offset: 9, 6
+  index: -1
+score_coin_4
+  rotate: true
+  xy: 87, 2
+  size: 39, 36
+  orig: 65, 51
+  offset: 11, 8
+  index: -1
+score_coin_5
+  rotate: false
+  xy: 47, 3
+  size: 38, 38
+  orig: 65, 51
+  offset: 12, 6
+  index: -1
+score_coin_6
+  rotate: false
+  xy: 125, 2
+  size: 45, 43
+  orig: 65, 51
+  offset: 8, 4
+  index: -1
+score_coin_7
+  rotate: false
+  xy: 159, 101
+  size: 26, 41
+  orig: 65, 51
+  offset: 18, 5
+  index: -1
+touzi1
+  rotate: true
+  xy: 102, 47
+  size: 37, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+tuteng
+  rotate: true
+  xy: 406, 274
+  size: 375, 362
+  orig: 380, 369
+  offset: 2, 3
+  index: -1

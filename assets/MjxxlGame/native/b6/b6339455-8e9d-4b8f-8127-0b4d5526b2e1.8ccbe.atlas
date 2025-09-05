@@ -1,0 +1,69 @@
+
+freeresult.png
+size: 383,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biglight
+  rotate: true
+  xy: 2, 2
+  size: 324, 322
+  orig: 326, 324
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 326, 271
+  size: 55, 55
+  orig: 76, 78
+  offset: 11, 6
+  index: -1
+score_coin_1
+  rotate: true
+  xy: 326, 155
+  size: 29, 42
+  orig: 65, 51
+  offset: 15, 5
+  index: -1
+score_coin_2
+  rotate: false
+  xy: 326, 8
+  size: 32, 39
+  orig: 65, 51
+  offset: 14, 6
+  index: -1
+score_coin_3
+  rotate: false
+  xy: 326, 186
+  size: 43, 38
+  orig: 65, 51
+  offset: 9, 6
+  index: -1
+score_coin_4
+  rotate: false
+  xy: 326, 49
+  size: 39, 36
+  orig: 65, 51
+  offset: 11, 8
+  index: -1
+score_coin_5
+  rotate: false
+  xy: 326, 87
+  size: 39, 38
+  orig: 65, 51
+  offset: 11, 6
+  index: -1
+score_coin_6
+  rotate: false
+  xy: 326, 226
+  size: 45, 43
+  orig: 65, 51
+  offset: 8, 4
+  index: -1
+score_coin_7
+  rotate: true
+  xy: 326, 127
+  size: 26, 40
+  orig: 65, 51
+  offset: 18, 6
+  index: -1
