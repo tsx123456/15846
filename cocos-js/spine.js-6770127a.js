@@ -1,1 +1,2 @@
 System.register([],(function(e){"use strict";return{execute:function(){e("default","assets/spine.js.mem-dc937d48.bin")}}}));
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3BpbmUuanMtNjc3MDEyN2EuanMiLCJzb3VyY2VzIjpbIkU6L0NvY29zRGFzaGJvYXJkRG93bmxvYWQvQ3JlYXRvci8zLjguNC9leHRlcm5hbDplbXNjcmlwdGVuL3NwaW5lL3NwaW5lLmpzLm1lbSJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCBpbXBvcnQubWV0YS5ST0xMVVBfRklMRV9VUkxfZGY3N2RiMjQ7IC8qIGFzc2V0LWhhc2g6NzRjYmUxZDIgKi8iXSwibmFtZXMiOlsiZXhwb3J0cyJdLCJtYXBwaW5ncyI6InVFQUFBQSxFQUFBLFVBQWUifQ==

@@ -1,1 +1,2 @@
 System.register([],(function(e){"use strict";return{execute:function(){e("default","assets/spine-17c81aa0.wasm")}}}));
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3BpbmUtZDExNTA1ZjAuanMiLCJzb3VyY2VzIjpbIkU6L0NvY29zRGFzaGJvYXJkRG93bmxvYWQvQ3JlYXRvci8zLjguNC9leHRlcm5hbDplbXNjcmlwdGVuL3NwaW5lL3NwaW5lLndhc20iXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgaW1wb3J0Lm1ldGEuUk9MTFVQX0ZJTEVfVVJMXzQ5MzQ4ZWI5OyAvKiBhc3NldC1oYXNoOmRlYmFkMDc4ICovIl0sIm5hbWVzIjpbImV4cG9ydHMiXSwibWFwcGluZ3MiOiJ1RUFBQUEsRUFBQSxVQUFlIn0=
